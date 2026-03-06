@@ -1,2 +1,2 @@
 # PensamentoComputacional
-Repositório criado para as atividades da matéria computacional.
+Repositório criado para as atividades da disciplina pensamento computacional.
