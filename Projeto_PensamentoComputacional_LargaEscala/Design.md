@@ -341,16 +341,3 @@ função resolverIntencao(mensagem_usuario, company_id):
 | Chatbot por intenções fixas | LLM externo | Sem dependência de API externa; respostas determinísticas e seguras para dados financeiros |
 
 ---
-
-## 8. Referências de Design
-
-- Saltzer, J. H., & Schroeder, M. D. (1975). *The protection of information in computer systems*. Proceedings of the IEEE.
-- Fowler, M. (2002). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
-- Newman, S. (2015). *Building Microservices*. O'Reilly Media.
-- Nielsen, J. (1994). *10 Usability Heuristics for User Interface Design*. Nielsen Norman Group.
-- Inspirações de interface: Conta Azul, Omie, Metabase, Power BI.
-- Inspirações de domínio: SAP, Totvs, QuickBooks.
-
----
-
-*Documento elaborado para a disciplina Pensamento Computacional para Sistemas de Larga Escala — Profa. Kadidja Valéria.*
