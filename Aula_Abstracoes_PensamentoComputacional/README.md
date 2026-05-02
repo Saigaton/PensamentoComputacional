@@ -1,3 +1,8 @@
+# Integrantes
+- Davi Pereira dos Santos: https://github.com/Saigaton
+- Eduardo Roberto Lucena: https://github.com/Bigodudys
+- Thalisson Costa Mesquita: https://github.com/ThalissonDev01
+
 ## O que é este projeto?
 Este trabalho é sobre a "Arte da Abstração". Basicamente, pegamos uma situação do dia a dia (fazer uma compra na internet) e limpamos toda a bagunça dela até sobrar apenas o que é importante para um computador entender.
 
